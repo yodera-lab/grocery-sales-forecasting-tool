@@ -1,4 +1,6 @@
 ## Sales Predictions for Products in a Grocery Store
+### Type:
+Group Project
 ### Description
 A C++ program that analyzes grocery store sales data and predicts future sales using historical sales quantities and calculated growth rates.
 ### How It Works
