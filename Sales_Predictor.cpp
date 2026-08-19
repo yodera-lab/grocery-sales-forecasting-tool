@@ -1,5 +1,4 @@
-// This is the final version of "Sales Predictions for Products in a Grocery Store" illustrating all variables, constants, user interactivity, loops/menus/files, and functions
-// This work was done by team ALK (Alexandra Yoder, Lauren Petty, and Kamryn Klik) on 4/29/2026
+// This work was done by Alexandra Yoder, Lauren Petty, and Kamryn Klik on 4/29/2026
 
 #include <iostream>
 #include <fstream>
