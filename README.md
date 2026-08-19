@@ -1,14 +1,12 @@
 ## Sales Predictions for Products in a Grocery Store
-
 ### Description
 A C++ program that analyzes grocery store sales data and predicts future sales using historical sales quantities and calculated growth rates.
-### Features
-- Calculates product revenue and sales growth
-- Predicts future sales quantity and revenue
-- Accounts for promotional discounts
-- Tracks highest and lowest revenue and growth rates
-- Generates an overall sales summary
-- Exports results to a text file
+### How It Works
+- User enters product information and historical sales quantities.
+- The program calculates the product's growth rate and current revenue.
+- Future sales are projected using the calculated growth rate.
+- Promotional discounts can be incorporated into revenue projections.
+- The program summarizes overall store performance and exports results to a text file.
 ### Technologies
 - C++
 - File I/O
