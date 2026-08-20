@@ -15,3 +15,5 @@ A C++ program that analyzes grocery store sales data and predicts future sales u
 - Vectors
 - Functions
 - Loops and conditional statements
+### Example Out File
+<img width="444" height="519" alt="image" src="https://github.com/user-attachments/assets/7f0ddf26-9314-4633-a9d8-81d0fd4448d8" />
