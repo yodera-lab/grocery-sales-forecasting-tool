@@ -1,4 +1,4 @@
-## Sales Predictions for Products in a Grocery Store
+## Grocery Sales Forecasting Tool
 ### Type:
 Group Project
 ### Description
