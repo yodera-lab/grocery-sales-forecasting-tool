@@ -2,7 +2,7 @@
 ### Type:
 Group Project
 ### Description
-A C++ program that analyzes grocery store sales data and predicts future sales using historical sales quantities and calculated growth rates.
+A C++ application that analyzes historical grocery sales data, calculates growth rates, forecasts future sales, and estimates revenue under promotional pricing.
 ### How It Works
 - User enters product information and historical sales quantities.
 - The program calculates the product's growth rate and current revenue.
